@@ -48,4 +48,8 @@ Right now we have two channel to connecto with the proxy. The first one to sends
 
 The project is under developement
 
+## More Info
+
+[Technical report of the project](https://zenodo.org/record/1971291#.Xx4DWy1h1QI)
+
 
